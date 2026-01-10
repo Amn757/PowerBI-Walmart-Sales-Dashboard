@@ -31,5 +31,3 @@ The report includes KPI cards, category-wise sales comparison, top profitable pr
 - Data Modeling & DAX  
 
 
-
-![Dashboard](Walmart Sales Dahboard.png)
