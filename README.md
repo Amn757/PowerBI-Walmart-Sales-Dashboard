@@ -30,10 +30,6 @@ The report includes KPI cards, category-wise sales comparison, top profitable pr
 - Microsoft Excel / CSV Dataset  
 - Data Modeling & DAX  
 
----
-
-## 📈 Dashboard Preview
-![Dashboard](Walmart Sales Dahboard.png)
 
 
 ![Dashboard](Walmart Sales Dahboard.png)
